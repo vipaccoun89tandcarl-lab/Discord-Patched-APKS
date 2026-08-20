@@ -1,0 +1,16 @@
+1. Open MT Manager
+2. Tap The Discord APK
+3. Tap View
+4. Select classes.dex
+5. Tap Dex Editor
+6. Tap String Pool
+7. Tap 3 dots In The Top Right Of The Screen
+8. Tap Filter
+9. Search email
+10. Change Email To Login String
+11. Save The Dex File
+12. Open ApkToolM
+13. Tap Modified Discord APK
+14. Select Remove Signature Verification
+15. Rename dc-patched.apk
+NOTE: 2.9.1 to v48 Only
